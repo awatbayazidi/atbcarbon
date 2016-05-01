@@ -1,5 +1,5 @@
 {
-    "name":        "awatbayazidi/contracts",
+    "name":        "awatbayazidi/atbcarbon",
     "description": "awatbayazidi support helpers",
     "keywords":    ["awatbayazidi"],
     "homepage":    "https://github.com/awatbayazidi/abzar",
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AwatBayazidi\\Contracts\\": ""
+            "AwatBayazidi\\atbcarbon\\": "src/"
         }
     },
     "minimum-stability": "stable"
